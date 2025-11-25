@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 
-- I am currently studying **Artificial Intelligence Engineering** at the [Bahcesehir University](https://bau.edu.tr/).
+- You can contact me at beyzabayrak01@hotmail.com 
 
 ### Programming languages:
 - Python
